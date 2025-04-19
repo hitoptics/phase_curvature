@@ -18,6 +18,12 @@ __Codes for Particle Positioning and Characterization using Phase Curvature and 
 
 Ensure that random_data_5%noise_csaps_400mic.csv and random_label_5%noise_csaps_400mic.csv are present in the same folder.
 
+## Data Availability
+
+The main code and sample data are available at [https://github.com/hitoptics/phase_curvature](https://github.com/hitoptics/phase_curvature).  
+The full dataset (originally over 30GB) has been removed due to storage constraints but is available upon reasonable request from the corresponding author.
+
+
 (2) MATLAB Code for Initial Axial Position Estimation
 
 •	Folder: axial_position_matlab
